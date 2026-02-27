@@ -1,6 +1,6 @@
 {
   "scheme": "https",
-  "host": "animevietsub.be",
+  "host": "animevietsub.how",
   "name": "AnimeVietsub",
   "old_host": [
     "animevietsub.tv",
@@ -30,6 +30,8 @@
     "animevietsub.lol",
     "animevietsub.show",
     "animevietsub.now",
-    "animevietsub.vip"
+    "animevietsub.vip",
+    "animevietsub.ee",
+    "animevietsub.be"
   ]
 }
