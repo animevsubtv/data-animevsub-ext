@@ -1,6 +1,6 @@
 {
   "scheme": "https",
-  "host": "animevietsub.mx",
+  "host": "animevietsub.id",
   "name": "AnimeVietsub",
   "old_host": [
     "animevietsub.tv",
@@ -33,6 +33,7 @@
     "animevietsub.vip",
     "animevietsub.ee",
     "animevietsub.be",
-    "animevietsub.how"
+    "animevietsub.how",
+    "animevietsub.mx"
   ]
 }
