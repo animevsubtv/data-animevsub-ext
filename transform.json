@@ -1,6 +1,6 @@
 {
   "scheme": "https",
-  "host": "animevietsub.meme",
+  "host": "animevietsub.wiki",
   "name": "AnimeVietsub",
   "old_host": [
     "animevietsub.tv",
@@ -41,6 +41,7 @@
     "animevietsub.by",
     "animevietsub.name",
     "animevietsub.pl",
-    "animevietsub.love"
+    "animevietsub.love",
+    "animevietsub.meme"
   ]
 }
